@@ -1,5 +1,5 @@
 {
-  "name": "uniclass-ts",
+  "name": "@threadway/uniclass",
   "version": "0.1.0",
   "exports": "./mod.ts",
   "tasks": {
