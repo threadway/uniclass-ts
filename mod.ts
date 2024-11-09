@@ -1,7 +1,7 @@
 /**
  * A record of all uniclass codes and their associate titles.
  */
-export const UNICLASS = {
+export const UNICLASS: Record<string, string> = {
   "PC_20_60": "Odour",
   "Pr_60_70_15_4": "Auto-reclose relays",
   "Ma_40_19_71_28": "Expansive concrete",
