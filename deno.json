@@ -1,6 +1,7 @@
 {
   "name": "@threadway/uniclass",
-  "version": "0.1.1",
+  "version": "0.1.2",
+  "description": "This module contains typed definitions of uniclass codes",
   "exports": "./mod.ts",
   "tasks": {
     "dev": "deno test --watch mod.ts"
