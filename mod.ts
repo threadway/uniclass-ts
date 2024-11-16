@@ -7,7 +7,7 @@
  * ```ts
  * import * as uniclass from "@threadway/uniclass";
  *
- * console.log(uniclass.UNICLASS[uniclassTE_70_50_40]);
+ * console.log(uniclass.UNICLASS[uniclass.TE_70_50_40]);
  * ```
  */
 
