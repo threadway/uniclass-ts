@@ -359,8 +359,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   SL_42_55_21: "Cycling trails",
   SL_90_60_2: "Air shafts",
   Pr_65_54_94_90: "Triple orifice air valves",
-  Pr_30_59_98_93:
-    "Unplasticized polyvinyl chloride (PVC-U) roof window units",
+  Pr_30_59_98_93: "Unplasticized polyvinyl chloride (PVC-U) roof window units",
   PC_50_48_48: "Lighting calculation work plane",
   TE_30_30_60: "Lifting platforms",
   TE_70_20_80: "Steel reinforcement cutting and bending plant and equipment",
@@ -486,8 +485,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   Ss_30_40_65_60:
     "Plastics profiled sheet self-supporting roof covering systems",
   SL_80_5_33: "Gliding runways",
-  RK_30_40_59:
-    "Not managing finances in accordance with financial constraints",
+  RK_30_40_59: "Not managing finances in accordance with financial constraints",
   Pr_65_65_25_34: "Glass fibre ductwork and fittings",
   RK_40_75_92: "Using hand-held power tools",
   RK_40_10_29: "Flammable atmosphere",
@@ -639,8 +637,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   Pr_20_31_53_26: "Epoxy mortars",
   Pr_15_31_4_58: "Oil-absorbent products",
   PC_35_28_90: "Traffic stream properties",
-  Pr_25_71_14_1:
-    "Aggregate-faced glass fibre-reinforced plastics (GRP) panels",
+  Pr_25_71_14_1: "Aggregate-faced glass fibre-reinforced plastics (GRP) panels",
   Pr_35_93_13_73: "Rigid urethane foam infill units",
   Pr_60_55_31_42: "Riser inlet breechings and boxes",
   Pr_35_31_68_3: "Anodized coatings",
@@ -954,8 +951,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   Ac_80_60_28: "Engine servicing",
   Co_60: "Heating, cooling and refrigeration complexes",
   Pr_25_30_85_85: "Step-over ladders",
-  PC_50_37_39:
-    "Heating, ventilation and air conditioning (HVAC) systems loads",
+  PC_50_37_39: "Heating, ventilation and air conditioning (HVAC) systems loads",
   Pr_20_85_18_85: "Steel bridge pedestals",
   PC_35_63_68_33: "Gauge pressure",
   Pr_30_59_33_35: "Glazing plastics gate leaves",
@@ -1290,8 +1286,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   Pr_40_50_12_32: "Footrests",
   Pr_20_85_9_3: "Aluminium bronze brackets",
   Ss_20_60_40_60: "Outfall headwall systems",
-  Ss_50_75_22_93:
-    "Wastewater ultraviolet (UV) radiation disinfection systems",
+  Ss_50_75_22_93: "Wastewater ultraviolet (UV) radiation disinfection systems",
   Ss_50_75_93_33: "Wastewater fluidized bed filtration systems",
   Ac_15_75_45: "Geological surveying",
   SL_20_50_70: "Refrigerated wholesale spaces",
@@ -1620,8 +1615,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   Ac_42_95_2: "Alpine skiing",
   Pr_65_52_7_64:
     "Polypropylene (PP) solid wall below-ground drainage pipes and fittings",
-  Ss_30_34_16_65:
-    "Precast concrete pavement non-glazed smoke venting systems",
+  Ss_30_34_16_65: "Precast concrete pavement non-glazed smoke venting systems",
   Pr_60_70_6_96: "Vented nickel cadmium batteries",
   Co_70_10_81: "Solar reflector power generation complexes",
   Pr_40_70_63_4: "Automated film developing equipment",
@@ -1738,8 +1732,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   Pr_15_31_4_86: "Surface cleaners",
   Ss_20_50_40: "Bridge expansion and movement joint systems",
   Ac_42_95_40: "Ice skating",
-  RK_70_40_26:
-    "Failure to exercise security due diligence during procurement",
+  RK_70_40_26: "Failure to exercise security due diligence during procurement",
   Pr_70_55_98_30: "Fountains",
   PC_20_5_15_19: "Currency type",
   Pr_70_75_70_3: "Automatic warning signals",
@@ -1818,8 +1811,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   Pr_20_85_71_57: "Nodular iron rings",
   PC_10_50: "Manufacturer identifiers",
   Pr_70_75_94_60: "Panel mounting indicator lights",
-  Pr_25_57_21_27:
-    "Ethylene propylene (EP) damp-proof courses and cavity trays",
+  Pr_25_57_21_27: "Ethylene propylene (EP) damp-proof courses and cavity trays",
   Pr_40_30_21: "Cycle stands and lockers",
   PC_20_89_27: "Elapsed time",
   Pr_40_30_80: "Skateboard installations",
@@ -3204,8 +3196,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   PM_60_70_23: "Environmental management plan",
   Ss_30_60_45_45: "Light-duty kerb systems",
   En_80_20_12: "Cable car stations",
-  Pr_75_80_42_17:
-    "Combined passive infrared and ultrasonic movement detectors",
+  Pr_75_80_42_17: "Combined passive infrared and ultrasonic movement detectors",
   Pr_25_31_28_67: "Polyurethane (PUR) foam insulation",
   Ac_90_50_41: "Hang glider storing",
   TE_50_10_20_60: "Partial cutting machines",
@@ -3491,8 +3482,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   Ac_90_50_10: "Boat storing",
   Pr_30_36_8_15: "Coin-operated locks",
   SL_55_30: "Fire-extinguishing supply spaces",
-  Pr_20_31_3_3:
-    "Air-entraining and plasticizing mortar and screed admixtures",
+  Pr_20_31_3_3: "Air-entraining and plasticizing mortar and screed admixtures",
   Ma_20_3_28_34: "Expanded glass aggregates",
   Co_25_50_54: "Multi-purpose exhibition complexes",
   Ss_75_10: "Communications systems",
@@ -3854,8 +3844,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   Pr_80_77_23_42: "Inflatable dock shelters",
   PC_50_75_79: "Safety and security reporting area",
   En_75_80: "Protection entities",
-  Ss_32_20_30_75:
-    "Self-adhesive bitumen membrane floor damp-proofing systems",
+  Ss_32_20_30_75: "Self-adhesive bitumen membrane floor damp-proofing systems",
   TE_10_40_30: "Formwork ties",
   PC_35_65_54_97: "Water penetration",
   TE_50_60_25: "Dynamic track stabilizers",
@@ -4504,8 +4493,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   Pr_40_50_7: "Bins and buckets",
   Ss_55_20_51_94: "Medical vacuum systems",
   Pr_20_31_1_85: "Stainless steel fibres",
-  Ss_32_20_30_45:
-    "Loose-laid bitumen membrane overslab damp-proofing systems",
+  Ss_32_20_30_45: "Loose-laid bitumen membrane overslab damp-proofing systems",
   Ss_70_10: "Electrical power generation systems",
   Pr_40_70_65_17: "Drink making equipment",
   Pr_45_63_64_88: "Tree guards",
@@ -4564,8 +4552,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   Ss_30_14_65_25: "Drainage layer systems",
   En_90_10_2: "Access stairways and walkways",
   SL_50_10: "Gas waste collection spaces",
-  Pr_60_50_20_24:
-    "Double feed indirect insulated hot water combination units",
+  Pr_60_50_20_24: "Double feed indirect insulated hot water combination units",
   PC_35_5_81: "Sound power",
   Zz_20_10_85: "Tags",
   Pr_20_29_8_42: "Indented bolts",
@@ -4990,8 +4977,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   Pr_65_54_30_25: "Dry dropper outlet valves",
   Ss_15_30_90_84: "Timber joint strengthening systems",
   Pr_20_85_62_96: "Walings",
-  Pr_65_52_7_16:
-    "Concrete plain wall below-ground drainage pipes and fittings",
+  Pr_65_52_7_16: "Concrete plain wall below-ground drainage pipes and fittings",
   Pr_60_60_38_84: "Steam to water non-storage calorifiers",
   TE_40_70_20_9: "Bucket chain dredgers",
   Pr_35_90_93_26: "Dentil slips",
@@ -5480,8 +5466,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   PM_80_10_30: "Finishes information",
   Co_32_10_30: "Fish hatcheries",
   En_50_35_98: "Wastewater collection pipelines",
-  PC_50_64_96:
-    "Water disposal systems installation and maintenance attributes",
+  PC_50_64_96: "Water disposal systems installation and maintenance attributes",
   SL_90_10_36: "Hallways",
   Pr_20_31_4_72: "Recycled rubber granules",
   Ss_75_10_21_88: "Telecommunications systems",
@@ -6262,8 +6247,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   Pr_20_29_76_86: "Stainless steel screws",
   PC_20_5_96_41: "Installer’s warranty terms",
   Ss_25_14_8_14: "Cleft chestnut pale fencing systems",
-  Pr_65_70_48_64:
-    "Paper-insulated corrugated aluminium sheath (PICAS) cables",
+  Pr_65_70_48_64: "Paper-insulated corrugated aluminium sheath (PICAS) cables",
   Pr_25_71_97_95: "Wood-plastics composite weatherboards",
   Ss_20_5_50_15: "Concrete haunching systems",
   En_20_60: "Military entities",
@@ -6347,8 +6331,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   Ss_40_90_95_65: "Preservative treatment systems",
   Pr_30_36_8_51: "Microswitch locks",
   TE_20_50_65_81: "Shoring wedges",
-  Co_35_90:
-    "Animal medical, health, welfare, funerary and sanitary complexes",
+  Co_35_90: "Animal medical, health, welfare, funerary and sanitary complexes",
   PC_20_15_13: "Chroma",
   Pr_40_70_13_60: "Orbital tank cleaners",
   RK_80_70_46: "Lack of innovation",
@@ -6484,8 +6467,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   PC_35_51_71_96: "Wind load resistance",
   Pr_20_29_60_37: "Hardwood wedges",
   Pr_65_54_94_63: "Pinch-type pressure relief valves",
-  Pr_65_52_3_30:
-    "Hot-dip pre-coated carbon steel rainwater pipes and fittings",
+  Pr_65_52_3_30: "Hot-dip pre-coated carbon steel rainwater pipes and fittings",
   Ac_15_5_15: "Coastal surveying",
   Pr_35_90_30_72: "Recycled plastics flashings",
   Ss_90_25:
@@ -6504,8 +6486,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   Ss_70_30_10_35: "High-voltage cable management systems",
   Pr_40_50_52_50: "Mayo tables",
   Ro_50_20_31: "Electronics engineer",
-  Ac_35_90:
-    "Animal medical, health, welfare, funerary and sanitary activities",
+  Ac_35_90: "Animal medical, health, welfare, funerary and sanitary activities",
   SL_75_10_88: "Telecommunications control spaces",
   PC_35_88_91_22: "Deflection temperature",
   Pr_65_70_46_48:
@@ -6693,8 +6674,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   Pr_75_30_23_33: "Garage door operators",
   Ma_40_35_34: "Glass wool",
   En_20_50_80: "Shop units",
-  Pr_20_93_33_53:
-    "Mortar jointed and sealant pointed glass block wall panels",
+  Pr_20_93_33_53: "Mortar jointed and sealant pointed glass block wall panels",
   PC_35_25_95_95: "Voltage drop",
   Ac_35_10_70: "Radiography",
   PC_35_15_82_96: "Water-solubility",
@@ -6796,8 +6776,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   Ss_65_60_95: "Wind tunnel systems",
   Ro_10_30_50: "Asset manager",
   PC_20_77_23: "Delivery date",
-  Ss_25_16_94_14:
-    "Combined metal and concrete vehicle safety parapet systems",
+  Ss_25_16_94_14: "Combined metal and concrete vehicle safety parapet systems",
   RK_60_68_24: "Risk to drivers and cyclists",
   Pr_40_70_22_81: "Soap dispensers",
   Pr_80_77_28_16: "Control circuit device enclosures",
@@ -7021,8 +7000,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   Pr_30_36_8_11: "Cabinet locks",
   PC_20_67_69: "Quality standard",
   Pr_65_67_16_2: "Air compressors",
-  Ss_15_30_65_72:
-    "Rigidly anchored plastics inner layer (RAPL) lining systems",
+  Ss_15_30_65_72: "Rigidly anchored plastics inner layer (RAPL) lining systems",
   Pr_30_59_12_33: "Gate face-plates",
   RK_50_90_42: "Inadequate system development and programme",
   Co_80: "Transport complexes",
@@ -7132,8 +7110,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   Pr_40_30_78_36: "Hat stands",
   Pr_40_70_53_55: "Mortuary foetal cabinets",
   Pr_70_60_36_80: "Solid fuel room heaters",
-  PM_70_30_22:
-    "Disabled alarms and disabled refuge alarm testing certificate",
+  PM_70_30_22: "Disabled alarms and disabled refuge alarm testing certificate",
   PM_80_10_60: "Performance analysis",
   PC_90_60: "Periods",
   Pr_40_70_22_64: "Pay and display units",
@@ -7253,8 +7230,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   Ma_60_97_63_50: "Maritime pine",
   Ss_50_35_85: "Wastewater collection storage systems",
   Ac_35_85: "Animal activities",
-  Ss_75_70_52:
-    "Mechanical engineering services control and management systems",
+  Ss_75_70_52: "Mechanical engineering services control and management systems",
   Pr_30_59_24_93: "Up-and-over doorsets",
   Ma_60_72_56_6: "Balsam resin",
   PC_50_34_18: "Coverage",
@@ -7459,8 +7435,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   Pr_40_30_25_25: "Dot matrix displays",
   SL_20_95_20: "Detection zones",
   Ac_30_20_75: "Low-heat unshielded radioactive waste managing",
-  Ss_50_60:
-    "Non-aqueous liquid waste storage, treatment and disposal systems",
+  Ss_50_60: "Non-aqueous liquid waste storage, treatment and disposal systems",
   RK_40_40_85: "Stored materials",
   Pr_65_80_15_16: "Crane arrestors",
   En_50_70: "Drainage storage, treatment and disposal",
@@ -7645,8 +7620,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   TE_60_80_30_20: "Cutting-out saws",
   SL_50_75_85: "Stormwater overflows",
   Co_55_20_60: "Gas distribution networks",
-  Pr_25_57_51_10:
-    "Butyl rubber (polyisobutylene isoprene (IIR)) geomembranes",
+  Pr_25_57_51_10: "Butyl rubber (polyisobutylene isoprene (IIR)) geomembranes",
   Pr_75_50_18: "Control and indicator panels",
   Pr_65_53_86_50: "Medical gas exhauster units",
   TE_30_30_60_40: "Portable platforms",
@@ -7741,8 +7715,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   Ac_80_60_70: "Rail repairing",
   Pr_40_50_6_24: "Double beds",
   SL_42_90_98: "White water canoe courses",
-  Pr_80_77_28_49:
-    "Low-voltage switchgear and controlgear assembly enclosures",
+  Pr_80_77_28_49: "Low-voltage switchgear and controlgear assembly enclosures",
   En_32_85_6: "Barrier beaches",
   SL_42_55_60: "Parkour courses",
   Ss_40_85_70: "Rail FF&E systems",
@@ -7770,8 +7743,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   Ss_75_70_75: "Rail control and monitoring systems",
   PC_35_28_48_42: "Termite resistance",
   Pr_65_52_63_60: "Polybutylene (PB) pipes and fittings",
-  Ss_30_40_50_80:
-    "Stainless steel sheet fully supported roof covering systems",
+  Ss_30_40_50_80: "Stainless steel sheet fully supported roof covering systems",
   Pr_25_71_97: "Wood-based boards",
   Co_20_70_65: "Probation complexes",
   Ma_40_52_83_85: "Structural steel",
@@ -7789,8 +7761,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   Pr_40_50_53: "Medical trolleys",
   Ss_25_45_70: "Render and roughcast coating systems",
   Pr_45_30_90_7: "Bare-root fruit trees",
-  Pr_65_52_7_15:
-    "Concrete perforated below-ground drainage pipes and fittings",
+  Pr_65_52_7_15: "Concrete perforated below-ground drainage pipes and fittings",
   Ma_60_2_98: "Wool",
   Pr_30_36_8_61: "Padlock hasps and staples",
   Pr_20_85_84_63: "Phosphor bronze wall head restraint slip ties",
@@ -8469,8 +8440,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   Pr_80_77_27_7: "Ballasted mounting frames for solar modules",
   PC_20_32_79_71: "Rectangular",
   Ss_75_70_90_94: "Vehicle tag-reading systems",
-  Ss_32_80_79_33:
-    "Fully bonded flexible sheet membrane waterproofing systems",
+  Ss_32_80_79_33: "Fully bonded flexible sheet membrane waterproofing systems",
   PC_20_89_3_3: "Age range",
   PC_50_34_80: "Shelf life",
   Pr_65_52_20_16: "Concrete box culverts",
@@ -9194,8 +9164,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   Pr_20_29_70: "Rail fasteners",
   PM_35_70_5: "Air conditioning performance requirement",
   Ss_15_30_12: "Ceramics repair and renovation systems",
-  Ss_37_50_92_76:
-    "Secondary regulating layer sprayed concrete lining systems",
+  Ss_37_50_92_76: "Secondary regulating layer sprayed concrete lining systems",
   Ss_50_70_5_79: "Below-ground drainage concrete soakaway systems",
   Pr_40_50_12_20: "Deckchairs",
   Pr_40_30_50_47: "Letter cages",
@@ -9204,8 +9173,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   PM_10_20_16: "Construction industry registration scheme requirements",
   SL_42_95_79: "Ski jumps",
   TE_50_70_40: "Stone and sand spreaders",
-  Pr_65_52_3_8:
-    "Borosilicate glass above-ground wastewater pipes and fittings",
+  Pr_65_52_3_8: "Borosilicate glass above-ground wastewater pipes and fittings",
   PM_80_25_46: "Land use assessments",
   Pr_40_50_12: "Chairs, seats and benches",
   Pr_60_70_36_6: "High-voltage busbar metering panels",
@@ -9828,8 +9796,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   Pr_40_20_76_83: "Splashbacks",
   Pr_40_50_51_21: "Day care couches",
   Ro_50_20_2: "Acoustic engineer",
-  Pr_75_51:
-    "Motors, motor controls, control circuit devices and timeswitches",
+  Pr_75_51: "Motors, motor controls, control circuit devices and timeswitches",
   Ac_30_80: "Kinetic power generation",
   Ac_20_85_79: "Sensitive activities",
   Pr_40_30_75_16: "Computer safes",
@@ -9862,8 +9829,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   Pr_60_45_78_73: "Rotating half bridge scrapers",
   Ac_30_60_17: "Conservation cleaning",
   Ss_30_20_10_10: "Battened timber board floating floor systems",
-  Pr_65_52_38_48:
-    "Liquid petroleum gas (LPG) rubber hoses and hose assemblies",
+  Pr_65_52_38_48: "Liquid petroleum gas (LPG) rubber hoses and hose assemblies",
   PM_40_20_39: "High-voltage power supply strategy",
   Ss_25_12_10_16: "Concrete brick panel wall systems",
   TE_70_50_45_8: "Bolt tensioning tools",
@@ -9987,8 +9953,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   Pr_25_57_8_71: "Reinforced bitumen membrane perforated underlays",
   Ss_75_50_11_57: "Nurse call systems",
   Pr_20_29_56_86: "Staples",
-  Pr_60_70_36_77:
-    "High-voltage sodium hexafluoride (SF6) current transformers",
+  Pr_60_70_36_77: "High-voltage sodium hexafluoride (SF6) current transformers",
   Ss_75_10_21_48: "Local area network (LAN) systems",
   Pr_25_71_14_77: "Self-finished precast concrete cladding panels",
   Pr_35_31_67_14: "Clear flame-retardant finishes",
@@ -10741,8 +10706,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   Pr_60_60_38_42: "Instantaneous plate heat exchangers",
   Pr_70_75_94_80: "Static filament warning beacons",
   Pr_75_75_94_95: "Voice alarm controllers",
-  PC_50_64_96_96:
-    "Wastewater systems installation and maintenance attributes",
+  PC_50_64_96_96: "Wastewater systems installation and maintenance attributes",
   PM_40_25: "Design calculations",
   RK_40_5_54: "Modular or prefabricated components",
   En_25_50_30: "Fauna exhibition grounds",
@@ -11045,8 +11009,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   Pr_65_52_20_15: "Concrete arch culverts",
   Pr_60_70_38_11: "High-voltage carbon dioxide-insulated circuit breakers",
   Ss_75_70_52_36: "Heating system control systems",
-  Ss_75_40_75_50:
-    "Marine and waterway security detection and warning systems",
+  Ss_75_40_75_50: "Marine and waterway security detection and warning systems",
   PC_35_63_50_48: "Magnetic flux",
   Ma_40_35_59: "Opal glass",
   Pr_65_72_97_30: "Fan isolators",
@@ -11378,8 +11341,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   EF_55_30_35: "Gaseous fire-extinguishing supply",
   TE_50_40_50: "Joint cutters",
   Pr_20_29_88_74: "Roofing straps",
-  Pr_75_80_42_16:
-    "Combined passive infrared and microwave movement detectors",
+  Pr_75_80_42_16: "Combined passive infrared and microwave movement detectors",
   Pr_40_50_51_71: "Reclining treatment armchairs",
   Ss_25_12_85_63: "Profile metal sheet wall systems",
   TE_50_20_10_15: "Core cutting machines",
@@ -11661,8 +11623,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   Pr_25_71_63: "Plastics-based boards and sheets",
   En_65_80: "Air conditioning entities",
   PC_50_75_3: "Alarm type",
-  RK_70_30_27:
-    "Failure to establish acceptable use and social media policies",
+  RK_70_30_27: "Failure to establish acceptable use and social media policies",
   Ss_32_80_3_10: "Cementitious proprietary mortar slurry tanking systems",
   RK_40_20: "Hazardous substance ill health risk",
   Pr_25_71_51_38: "Hollow-core metal sheets",
@@ -11914,8 +11875,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   Ss_30_14_65_83: "Subgrade layer systems",
   Pr_35_57_22_60: "Paper roll coverings",
   PC_20_65_48_80: "Side",
-  Pr_20_85_48_34:
-    "Glass fibre-reinforced concrete (GRC) dressing lintel heads",
+  Pr_20_85_48_34: "Glass fibre-reinforced concrete (GRC) dressing lintel heads",
   Ss_25_16_73_3: "Acoustic barrier systems",
   Pr_40_50_51_65: "Podiatry chairs",
   Ss_70_30_90: "Conductor rail traction power distribution systems",
@@ -12016,8 +11976,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   SL_25_30_28: "Experiment control rooms",
   SL_80_50_85: "Stabling yards",
   SL_42_40_30: "Fitness rooms",
-  Pr_25_71_63_15:
-    "Compact or solid grade high-pressure laminate (HPL) boards",
+  Pr_25_71_63_15: "Compact or solid grade high-pressure laminate (HPL) boards",
   Pr_40_70_58_23: "Document shredders",
   PC_35_28_48_53: "Mildew resistance",
   Ss_55_15_80_14: "Chloramine disinfection systems",
@@ -12362,8 +12321,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   Ac_20_15_73: "Recruitment",
   Pr_35_90_27: "Expansion joints",
   Pr_80_51_30_38: "HS/ H/ HL flumes",
-  Ss_32_20_30_46:
-    "Loose-laid bitumen membrane underslab damp-proofing systems",
+  Ss_32_20_30_46: "Loose-laid bitumen membrane underslab damp-proofing systems",
   Ss_55_30_30_31: "Foam fire-extinguishing systems",
   PM_10_20_28: "Exchange information requirements",
   Ss_65_40_33: "General space ventilation systems",
@@ -12464,8 +12422,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   Ss_82: "Vehicle systems",
   Pr_30_36_8_12: "Cam locks",
   Pr_20_29_60_32: "Formwork cover spacers",
-  TE_60_60_10_16:
-    "Concrete processing systems with horizontal aggregate feed",
+  TE_60_60_10_16: "Concrete processing systems with horizontal aggregate feed",
   Co_32_10_28: "Fish farms",
   Ss_30_42_52_52: "Mastic asphalt floor underlay systems",
   Pr_60_60_13_2: "Adiabatic chillers",
@@ -13044,8 +13001,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   EF_70_20_88: "Transmission circuit",
   Pr_20_31_2_56: "Natural rubber-based and latex adhesives",
   PM_30_40_33: "Gases survey report",
-  TE_60_60_10_71:
-    "Reversing drum mixers with hopper, weigher and feed shovel",
+  TE_60_60_10_71: "Reversing drum mixers with hopper, weigher and feed shovel",
   SL_90_10_71: "Retail circulation spaces",
   FI_90_66: "Process workflow (PW)",
   Pr_20_93_37: "Headwall and swale inlet products",
@@ -13316,8 +13272,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   EF_70_30_35: "High-voltage electricity distribution",
   Pr_40_30_85_4: "Archery nets",
   Pr_65_52_34_48: "Manifold gauges",
-  Pr_25_93_51_39:
-    "Glass fibre-reinforced concrete (GRC) dressing gable vents",
+  Pr_25_93_51_39: "Glass fibre-reinforced concrete (GRC) dressing gable vents",
   Ac_30_20_30: "High-heat highly enriched uranium radioactive waste managing",
   En_25_70_47: "Library buildings",
   SL_25_90: "Worship spaces",
@@ -13566,8 +13521,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   EF_60_30_90: "Tramway heating",
   Pr_75_50_20_2: "Alarms",
   Pr_40_30_29_61: "Pedicure chairs",
-  Ss_90_15:
-    "Demand for integrated management, consultancy and administration",
+  Ss_90_15: "Demand for integrated management, consultancy and administration",
   Pr_60_45_7_22: "Dissolved air flotation plants",
   PM_35_10_3: "Air quality performance requirements",
   Ss_45_85: "Artificial fauna systems",
@@ -14180,8 +14134,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   Ss_25_13_50_49: "Masonry exposed feature systems",
   Pr_20_29_56_3: "Annular nails",
   FI_90_70: "Register (RG)",
-  Ss_90_65:
-    "Specific demand of ventilation and air conditioning organizations",
+  Ss_90_65: "Specific demand of ventilation and air conditioning organizations",
   Pr_70_65_4_73: "Roof ridge air terminals",
   Ss_40_70_60_62: "Pool transfer aid equipment systems",
   Ss_85_45_6_80: "Slitting systems",
@@ -14367,8 +14320,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   Pr_60_45_93_42: "Impeller and compactor tank wash",
   Pr_20_31_56_50: "Mastic resins",
   PC_90_60_66_52: "Mesolithic",
-  PM_70_80_13:
-    "Combined heat and power (CHP) system commissioning certificate",
+  PM_70_80_13: "Combined heat and power (CHP) system commissioning certificate",
   Pr_35_90_43_20: "Door protection panels",
   Pr_75_75_4_65: "Nurse call indicator panels",
   Pr_70_75_1_5: "Approach inset lights",
@@ -14399,8 +14351,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   Pr_20_85_46_53: "Metal furring channels",
   Pr_20_85_32_80: "Solar module ballasted mounting frames",
   Ss_75_10_68: "Public communications systems",
-  Ss_25_20_33_35:
-    "Glass fibre-reinforced concrete (GRC) wall cladding systems",
+  Ss_25_20_33_35: "Glass fibre-reinforced concrete (GRC) wall cladding systems",
   Pr_20_85_9_18: "Cast iron downpipe brackets",
   SL_55_5_70: "Gas treatment spaces",
   RK_50_40_82: "Safety risk information management risk",
@@ -15358,8 +15309,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   Ss_30_14_80_40: "Hard binding gravel paving systems",
   Pr_65_52_38_15: "Compressed air hose couplings",
   Pr_35_90_28_15: "Cover caps",
-  Pr_65_53_96_95:
-    "Volute casing dry well centrifugal sewage and sludge pumps",
+  Pr_65_53_96_95: "Volute casing dry well centrifugal sewage and sludge pumps",
   SL_90_50_84: "Storage rooms",
   Pr_20_31_35_52: "Microsilica",
   Ss_20_5_90: "Underpinning systems",
@@ -15616,8 +15566,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   Pr_30_36_36_29: "Floor springs",
   TE_50_20_20_28: "Extractors",
   Ss_70_20_60: "High-voltage control and protection systems",
-  Pr_20_85_48_33:
-    "Glass fibre-reinforced concrete (GRC) built-in lintel heads",
+  Pr_20_85_48_33: "Glass fibre-reinforced concrete (GRC) built-in lintel heads",
   Pr_35_57_11_13: "Cellular rubber underlays",
   EF_15_30: "Remediation, repair and renovation",
   Pr_65_52_63_62: "Polyethylene (PE) gaseous fuel pipes and fittings",
@@ -15671,8 +15620,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   Ss_40_15_75_25: "Drinking fountain systems",
   Pr_30_59_29_75: "Roof ventilator unit",
   Pr_80_51_30: "Measuring flumes",
-  Ss_32_20_20_64:
-    "Physical insertion proprietary rising damp remedial systems",
+  Ss_32_20_20_64: "Physical insertion proprietary rising damp remedial systems",
   PM_35_30_85: "Structural fire performance requirements",
   PC_35_28_3_3: "Air pollutants level",
   Pr_70_70_70_15: "Conductor rail power connectors",
@@ -16878,8 +16826,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   PM_70_75_83: "Sound and lighting systems test report",
   Pr_60_45_95_15:
     "Conical glass fibre-reinforced plastics (GRP) settlement tanks",
-  Ss_30_40_30_71:
-    "Reinforced bitumen membrane inverted roof covering systems",
+  Ss_30_40_30_71: "Reinforced bitumen membrane inverted roof covering systems",
   Pr_70_65_30_32: "Fume extract discharge stacks",
   Pr_75_30_23_96: "Worm drive swing gate operators",
   Pr_40_30_53_70: "Rail mirrors",
@@ -17129,8 +17076,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   Pr_65_70_30_10: "Cable sealing ends",
   Ac_25_30_15: "Clinical biochemistry activities",
   Pr_25_57_51_35: "Glass fibre-reinforced plastics (GRP) sheet liners",
-  Pr_25_93_51_35:
-    "Glass fibre-reinforced concrete (GRC) built-in gable vents",
+  Pr_25_93_51_35: "Glass fibre-reinforced concrete (GRC) built-in gable vents",
   Ac_20_50_90: "Trying out goods",
   Pr_60_45_90_51: "Mechanical mixers",
   Pr_40_30_4_24: "Dog kennels",
@@ -17207,8 +17153,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   Pr_25_57_90_29: "Fabrics for tensile applications",
   Ss_75_50_33_30: "Fixed gas detection and alarm systems",
   Pr_40_50_5_43: "Interactive artworks",
-  Ss_25_20_35_35:
-    "Glass fibre-reinforced plastics (GRP) wall cladding systems",
+  Ss_25_20_35_35: "Glass fibre-reinforced plastics (GRP) wall cladding systems",
   Ss_32_46_50_53: "Metal lathing on solid substrate systems",
   PM_80_30_5: "Acquisition costs",
   SL_42_15_60: "Outdoor sports pitches and fields",
@@ -17356,8 +17301,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   Ac_15_50_12: "Building measurement surveying",
   Pr_20_93_52_18: "Composite brick slips",
   Pr_75_80_75_1: "Advanced cabin baggage x-ray scanners",
-  Ss_30_20_10_43:
-    "Joist-supported mineral-based sheet and board floor systems",
+  Ss_30_20_10_43: "Joist-supported mineral-based sheet and board floor systems",
   Pr_35_31_68_4: "Anti-carbonation coatings",
   Pr_60_45_79_65: "Pressurized sludge screens",
   PC_20_25_1_78: "Slope angle",
@@ -18916,8 +18860,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   Ss_15: "Earthworks, remediation and temporary systems",
   Pr_20_85_11_60: "Parallel wire strand cables",
   Pr_25_31_28_52: "Mineral-based injected foam insulation",
-  PC_50_64_96_84:
-    "Storm water systems installation and maintenance attributes",
+  PC_50_64_96_84: "Storm water systems installation and maintenance attributes",
   SL_90_10_87: "Stairways",
   Co_50_20: "Non-aqueous waste collection and distribution complexes",
   Pr_25_71_50_24: "Decorative metal panels",
@@ -18926,8 +18869,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   Pr_30_31_76_96: "Waterproof gap filling sealants",
   Pr_25_71_35_88: "Thermal laminate gypsum plasterboards",
   SL_20_45_96: "Vehicle servicing areas",
-  Ss_25_20_50_85:
-    "Stainless steel sheet fully supported wall-covering systems",
+  Ss_25_20_50_85: "Stainless steel sheet fully supported wall-covering systems",
   PM_30_5_46: "Lakes and ponds survey information",
   Ss_45_35_5_67: "Pit-planted small tree and shrub systems",
   PC_20_70_73: "Relative range",
@@ -19033,8 +18975,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   Ac_60_60_63: "Heating and cooling plant and equipment testing",
   Pr_20_93_51_28: "Expanded polystyrene (EPS) infill blocks",
   Co_45_10_11: "Campsites",
-  Ss_30_40_65_50:
-    "Metal profiled sheet self-supporting roof covering systems",
+  Ss_30_40_65_50: "Metal profiled sheet self-supporting roof covering systems",
   Pr_60_70_36_95: "High-voltage voltage transformers",
   Ss_45_40_40_32: "Free-standing internal container planting systems",
   Ss_25_14_52_34: "General pattern wire mesh fencing systems",
@@ -19066,8 +19007,7 @@ export const UNICLASS: Record<Uniclass, string> = {
   Pr_70_75_70_63: "Points operating equipment",
   PC_35_51_25: "Ductility",
   TE_10_40_55: "Formwork",
-  Pr_20_76_51_84:
-    "Stainless steel sheet, strip and plate for general purposes",
+  Pr_20_76_51_84: "Stainless steel sheet, strip and plate for general purposes",
   Ro_50_30_4: "Arboriculturalist",
   Ro_30_50: "Team lead roles",
   Pr_35_90_30_99: "Zinc flashings",
@@ -113419,3 +113359,16 @@ export type Uniclass =
   | Ac_42_85_22
   | Pr_20_29_3_83
   | Ma_40_15_56;
+
+/**
+ * Type guard to determine if a string is a uniclass
+ */
+export function isUniclass(uniclass: string): uniclass is Uniclass {
+  const x: Uniclass = uniclass as Uniclass;
+  const g = UNICLASS[x];
+  if (g) {
+    return true;
+  } else {
+    return false;
+  }
+}
